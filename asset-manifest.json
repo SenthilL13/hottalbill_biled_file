@@ -1,13 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.2051b5e7.css",
-    "main.js": "/static/js/main.0cbf92cf.js",
+    "main.js": "/static/js/main.4ada5641.js",
+    "static/media/Porotta.webp": "/static/media/Porotta.3742648b985b9d34fc29.webp",
+    "static/media/Pongal.jpg": "/static/media/Pongal.d66d552029dd87570e86.jpg",
+    "static/media/Biryani.jpg": "/static/media/Biryani.86cd113b738c5c6948ce.jpg",
+    "static/media/FriedRice.jpg": "/static/media/FriedRice.6ea5caf74d188be03be4.jpg",
+    "static/media/Gobi.webp": "/static/media/Gobi.e8a5debdf4a98bfbc22f.webp",
+    "static/media/Dhosai.jpg": "/static/media/Dhosai.99f4828e8a7ed101ca7b.jpg",
+    "static/media/Idly.jpg": "/static/media/Idly.a1da42219862dd944ccf.jpg",
+    "static/media/Noodles.jpeg": "/static/media/Noodles.af2e2156d17b17d176be.jpeg",
+    "static/media/Chappathi.avif": "/static/media/Chappathi.8a64af3dec3a8b10dc5d.avif",
+    "static/media/Omplate.jpeg": "/static/media/Omplate.0f13124204d7f5347bd6.jpeg",
     "index.html": "/index.html",
     "main.2051b5e7.css.map": "/static/css/main.2051b5e7.css.map",
-    "main.0cbf92cf.js.map": "/static/js/main.0cbf92cf.js.map"
+    "main.4ada5641.js.map": "/static/js/main.4ada5641.js.map"
   },
   "entrypoints": [
     "static/css/main.2051b5e7.css",
-    "static/js/main.0cbf92cf.js"
+    "static/js/main.4ada5641.js"
   ]
 }
